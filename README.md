@@ -4,6 +4,7 @@ This repo contains various open source data on Covid-19 and other demographic an
 Thanks to the following references for making the data available publicly:
 
 [1] Data Science for Social Impact Research Group @ University of Pretoria (https://github.com/dsfsi)
+
 [2] Open-source data available on Kaggle (https://www.kaggle.com/search?q=covid+19+in%3Adatasets)
 
 ## Future work
