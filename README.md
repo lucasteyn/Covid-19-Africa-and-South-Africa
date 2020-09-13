@@ -1,7 +1,7 @@
 # Covid-19: Africa and South Africa 
-This repo contains various open source data on Covid-19 and other demographic and behavioural factors in Africa and South Africa.
+This repo contains various open-source data on Covid-19 and other demographic and behavioural factors in Africa and South Africa.
 
-Thanks to the following references for making the data available publicly:
+Thanks to the following groups for making the data available publicly:
 
 [1] Data Science for Social Impact Research Group @ University of Pretoria (https://github.com/dsfsi)
 
